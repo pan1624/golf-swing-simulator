@@ -76,14 +76,13 @@ pip install -r pose_tracking/requirements.txt
 > The 3D models, terrain textures and course scenery came from Unity Asset Store packages whose licenses don't allow redistribution, so they are not included. This repository contains the code our team wrote.
 
 ## Team
+Developed as a 4-person team capstone project.
 
-| Member | Role |
-|---|---|
-| Yu-Xiang Pan ([@pan1624](https://github.com/pan1624)) | Pose tracking with MediaPipe, swing-speed estimation, Python ↔ Unity streaming |
-| [Teammate] | [Role] |
-| [Teammate] | [Role] |
-| [Teammate] | [Role] |
-
+### My Role
+- 負責項目 1（例如：MediaPipe 姿勢偵測與揮桿判斷）
+- 負責項目 2（例如：Python 與 Unity 之間的資料傳輸）
+- 負責項目 3
+- 
 ## Future work
 
 - VR headset support for a fully immersive round
