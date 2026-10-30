@@ -84,7 +84,7 @@ Developed as a 4-person team capstone project.
 - **Pose tracking pipeline (Python):** Built real-time body tracking with MediaPipe Pose, migrating from an earlier PoseNet prototype.
 - **Python ↔ Unity communication:** Streamed body keypoints from Python to the Unity game over a TCP socket.
 - **Swing-to-shot physics (C#):** Computed launch speed from joint velocities across frames and used it to drive the ball's shot in Unity.
-- 
+
 ## Future work
 
 - VR headset support for a fully immersive round
